@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/MainMenu.unity
-    guid: 6bdce89659816455b9f906fc62d19910
+    path: Assets/Samples/MenuManager/Scenes/MainMenu.unity
+    guid: 0b1b5c5e4650e314587437a509247a2b
   - enabled: 1
     path: Assets/Scenes/SceneSemanticsDemo.unity
     guid: b32051826a51a4b78af935b74ea04731
@@ -17,6 +17,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/GeospatialDemo.unity
     guid: 6419186fbacf6f346ad97a041aeab1ea
+  - enabled: 1
+    path: Assets/Scenes/ARPaintDemo.unity
+    guid: 5af13868dea66426eb4d3221b16c3c6a
   m_configObjects:
     Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 744b813df90924c169af73489b8325de,
       type: 2}
@@ -36,4 +39,3 @@ EditorBuildSettings:
       type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 6bb381a8ba31f114d9724357633b4625,
       type: 2}
-  m_UseUCBPForAssetBundles: 0
